@@ -1,0 +1,6 @@
+[submodule "deps/dots-core"]
+	path = deps/dots-core
+	url = git@github.com:primoze/dots-core.git
+[submodule "deps/dots-hal"]
+	path = deps/dots-hal
+	url = git@github.com:primoze/dots-hal.git
